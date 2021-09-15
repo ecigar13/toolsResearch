@@ -2,7 +2,6 @@
 Summaries of pros and cons of each tool I went through.
 
 ### Future plans
-Mesos
 Tableau, QlikView, Mode, Matplotlib, 
 Big-Data storage technologies (Iceberg, Hudi, Delta)
 numpy

@@ -10,7 +10,7 @@ An abstraction layer on top of Hive (SQL engine). Think of it as abstracting dat
 - Version roll back, reproducible queries.
 
 ### Cons
-- Typical for abstraction layers
+- Typical for abstraction layers: easier to use, less fine-grained control.
 
 ### Compared to similar tools
 To Hudi, Delta...: less dependent on Spark when it comes to writing.

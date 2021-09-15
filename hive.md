@@ -1,7 +1,7 @@
 # Hive
 
 ### What it is?
-It a query engine, runs MapReduce job under the hood, interacting with HDFS (Hadoop). Data warehouse tool
+It a query engine for MapReduce, interacting with HDFS (Hadoop). Data warehouse tool
 
 ### Pros
 - Helps querying HDFS
